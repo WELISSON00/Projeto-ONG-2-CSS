@@ -142,7 +142,7 @@ Sinta-se livre para usar e modificar conforme necessário.
 📧 Email: contato@ongavanca.org
 
 📍 Endereço: Av Guapira, 59 – São Paulo/SP – CEP 01001-000
-🌐 Website: www.ongavanca.org
+🌐 Website: https://welisson00.github.io/WELISSON00-Projeto-ONG-2-CSS/
 
 📱 Instagram: @ongavanca
 
