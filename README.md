@@ -101,9 +101,7 @@ Validação de campos e design intuitivo.
 
    - Em “Source”, selecione a branch main e a pasta /root.
 
-   - O site estará disponível em:
 
-     https://welisson00.github.io/WELISSON00-Projeto-ONG-2-CSS/
 
      
  🤝 Como Contribuir
@@ -142,6 +140,7 @@ Sinta-se livre para usar e modificar conforme necessário.
 📧 Email: contato@ongavanca.org
 
 📍 Endereço: Av Guapira, 59 – São Paulo/SP – CEP 01001-000
+
 🌐 Website: https://welisson00.github.io/WELISSON00-Projeto-ONG-2-CSS/
 
 📱 Instagram: @ongavanca
