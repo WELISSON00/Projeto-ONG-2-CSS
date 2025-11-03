@@ -103,29 +103,32 @@ Validação de campos e design intuitivo.
 
    - O site estará disponível em:
 
-     https://seu-usuario.github.io/ong-avanca/
+     https://welisson00.github.io/WELISSON00-Projeto-ONG-2-CSS/
 
      
  🤝 Como Contribuir
 
-Faça um fork do projeto.
+1. Faça um fork do projeto.
 
-Crie uma nova branch:
+2. Crie uma nova branch:
 
 git checkout -b minha-feature
 
 
-Faça suas alterações e commit:
+3. Faça suas alterações e commit:
 
 git commit -m "Adiciona nova funcionalidade"
 
 
-Envie para seu repositório:
+4. Envie para seu repositório:
 
 git push origin minha-feature
 
 
-Abra um Pull Request com suas alterações.
+5. Abra um Pull Request com suas alterações.
+
+
+
 
 
 
